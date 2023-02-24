@@ -27,7 +27,7 @@
 ## Installation
 - clone the repo :
 ```
-$git clone https://github.com/bimbims125/stisla-django.git
+$git clone https://github.com/anndrzq/stisla_django.git
 ```
 
 ## Usage
@@ -43,9 +43,9 @@ $git clone https://github.com/bimbims125/stisla-django.git
  ```
  $pip install django
  ```
-- Open folder `stisla-django`
+- Open folder `stisla_django`
  ```
- $cd stisla-django
+ $cd stisla_django
  ```
 - Run the Server
  ```
